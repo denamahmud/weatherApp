@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/denamahmud/weatherApp/static/css/main.26363fa5.css",
+    "main.js": "/denamahmud/weatherApp/static/js/main.4ca48aec.js",
+    "static/media/nature.png": "/denamahmud/weatherApp/static/media/nature.aabdf76d6eef828ea2e1.png",
+    "static/media/3.jpg": "/denamahmud/weatherApp/static/media/3.5176c7c865fda46d0546.jpg",
+    "index.html": "/denamahmud/weatherApp/index.html",
+    "main.26363fa5.css.map": "/denamahmud/weatherApp/static/css/main.26363fa5.css.map",
+    "main.4ca48aec.js.map": "/denamahmud/weatherApp/static/js/main.4ca48aec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26363fa5.css",
+    "static/js/main.4ca48aec.js"
+  ]
+}
