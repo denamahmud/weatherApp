@@ -1,5 +1,6 @@
 {
-  "name": "weather-app",
+  "name": "weather-app", 
+  "homepage": "https://github.com/denamahmud/weatherApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
