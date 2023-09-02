@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family: 'Acme', sans-serif;
+}
+.same-class{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;   
+ } 
+.illustarion{
+  background-image: url('../public/imgs/3.jpg'); 
+} 
+.nature{
+  background-image: url('../public/imgs/nature.png'); 
+}
+.cover-black{
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 100vh;   
+}
+
+.box-shadow {
+   box-shadow: 0 8px 50px 5px #6c6c6c ;
+}
+.animation-icon{  
+  animation: animate1 2s .3s infinite;
+}
+
+@keyframes animate1 {
+  0%,100%{
+    opacity: 0;
+  }
+  50%{
+    opacity: 1;
+  }
+}
+
+ 
+@media (min-width: 200px) and (max-width: 768px) {
+  .same-class,
+  .cover-black
+   {
+    height: 130vh;
+  }
+}
