@@ -1,4 +1,2 @@
- 
-
-  <a href='https://denamahmud.github.io/weatherApp/'>Live</a>
+<a href='https://denamahmud.github.io/weatherApp/'>Demo</a>
  
